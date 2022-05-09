@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marcos-brat
 - 👀 I’m interested in Programming and coding
-- 🌱 I’m currently learning JAVA, C/C++, PYTHON, C#, React and JS.
-- 💞️ I’m looking to collaborate on anything cool and worthy to spend time on it!!!!
+- 🌱 I’m currently learning JAVA, C/C++, PYTHON, C#, React, Vue, JS, MongoDb, Oracle, and MySql.
+- 💞️ I’m looking to collaborate on anything cool and worthy to spend my time on it!!!!
 - 📫 How to reach me marcosbrati55@gmail.com
 
 <!---
