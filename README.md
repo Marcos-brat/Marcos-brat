@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
           
 <div align="center">
   <a href="https://github.com/Marcos-brat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-brat&show_icons=true&theme=sinthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-brat&show_icons=true&theme=sinthwave&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-brat&layout=compact&langs_count=7&theme=sinthwave"/>
 </div>
 <div style="display: inline_block"><br>
